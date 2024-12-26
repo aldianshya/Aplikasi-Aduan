@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706108783108",
+    "project_id": "aplikasi-aduan-61031",
+    "storage_bucket": "aplikasi-aduan-61031.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706108783108:android:ace627007cad4401fa5351",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_aduan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACQzKp4vbP74fEhk30_ExjCHroTyU4maM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
